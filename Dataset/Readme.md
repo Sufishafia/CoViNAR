@@ -1,1 +1,0 @@
-The following folder contains dataset file for CoViNAR project.
