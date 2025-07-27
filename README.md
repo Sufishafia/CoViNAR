@@ -1,4 +1,4 @@
-# Pandemic Severity Level Analysis Using Social Media
+# CoViNAR:A Context-Aware Social Media Dataset for Pandemic Severity Level Prediction and Analysis
 
 ## Overview
 This project introduces the CoViNAR dataset, which consists of 14,000 tweets categorized into three classes:
@@ -14,7 +14,7 @@ The python code and CoViNAR dataset is publicly available for research and devel
 The project involves several key steps:
 1. Tweet scraping from X.
 2. Data preprocessing.
-3. Initial filtering of tweets using BERTopic.
+3. Initial filtering of tweets using BERTopic and Regex.
 4. Labeling of tweets.
 5. Training and texting of a classification model.
 6. Implementation and analysis.
